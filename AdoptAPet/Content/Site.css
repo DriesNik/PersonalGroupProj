@@ -1,0 +1,55 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+<<<<<<< HEAD
+/*.jumbotron {
+=======
+   h1 {
+        text-shadow: 4px 4px 6px black;
+        }
+    h2 {
+        text-shadow: 2px 1px orange;
+        }
+.jumbotron {
+>>>>>>> b0780d0f96c31e75b1144b739570a25897cd04a7
+    position: relative;
+    background: url("Images/petCover.jpg") center;
+    overflow: hidden;
+    height:500px;
+    width: 1450px;
+ 
+}*/
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+p{
+    color: black;
+}
+
+h1 {
+    color:black;
+    font-size:4em;
+}
+h4 {
+    color: black;
+    font-size: 1em;
+}

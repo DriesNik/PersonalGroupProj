@@ -1,0 +1,14 @@
+user inof-email, username
+address- street, zipcode,state,
+pet info-name, breed, age, type, vacinated?, declawed?, sex,
+adotions status - giving away, looking for,
+
+
+
+You are required to credit Petfinder as the source of the data within any applications that you develop using the Data by including "Powered by Petfinder.com" and to include a link to the Petfinder website at www.petfinder.com
+
+
+API Key
+
+API Secret
+6fff241ba9d7a2e6dfb25dc3aa468265
